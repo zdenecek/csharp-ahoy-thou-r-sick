@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AhoCorasick": {
+      "commandName": "Project",
+      "commandLineArgs": "pes C:\\Users\\zdnek\\unirepo\\pokrocile_programovani_v_csharp\\ 1 4 16"
+    }
+  }
+}
